@@ -169,10 +169,7 @@ I value continuous learning, thoughtful design, clear communication and building
 
 # Connect
 
-📍 United Kingdom
-
 📧 Email
-*(Add your professional email)*
 
 🌐 Portfolio
 *(Coming soon)*
