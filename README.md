@@ -129,19 +129,25 @@ Current areas of study include:
 - API Integration
 - Digital Product Development
 
-### Professional Certificates
 
-# Professional Certifications
+## Professional Certifications
 
-<p align="center">
-  <img src="IMAGES\Google AI Professional Certificate.png" width="260">
-  <img src="images/google-prompting-essentials.png" width="260">
-</p>
+Continuous learning is an important part of my professional development. Alongside my experience in Learning & Development, I continue to expand my knowledge of Artificial Intelligence, automation and software development through recognised industry certifications and practical application.
 
 <p align="center">
-  <img src="images/google-certificate-3.png" width="260">
-  <img src="images/google-certificate-4.png" width="260">
+  <img src="images/learning and development diploma cpd certified.pdf" width="260">
+  <img src="images/pmi project management basics an official pmi.pdf" width="260">
 </p>
+
+### Google Career Certificates
+
+- 🎓 **Google AI Professional**  
+  🔗 [View Certificate](https://coursera.org/verify/profession
+al-cert/O9EXYHHIYTL9)
+
+- 🎓 **Google Data Analytics**  
+  🔗 [View Certificate](https://coursera.org/verify/profession
+al-cert/SK9EIP7KYTEW)
 
 ---
 
