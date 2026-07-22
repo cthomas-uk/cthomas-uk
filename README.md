@@ -1,14 +1,15 @@
 <p align="center">
-  <img
-    src="https://raw.githubusercontent.com/cthomas-uk/cthomas-uk/main/images/banner.png"
-    alt="Chris Thomas Banner"
-    width="100%"
-  >
+  <img src="images/banner.png" alt="Chris Thomas Banner" width="100%">
+</p>
+<p align="center">
+
+**Learning & Development professional, also applying Artificial Intelligence, automation and software development to create practical, user-focused digital solutions.**
+
 </p>
 
 ---
-
 ---
+
 
 # About Me
 
@@ -20,9 +21,9 @@ I'm currently building an AI-powered digital solutions project that combines my 
 
 ---
 
-# What I'm Currently Working On
+# Skills I Am Developing
 
-I'm currently focused on applying Artificial Intelligence and automation to solve practical Learning & Development challenges through hands-on software development.
+I'm currently developing skills in applying Artificial Intelligence and automation to solve practical Learning & Development challenges, through hands-on software development.
 
 Current areas of work include:
 
@@ -76,27 +77,32 @@ AI-Powered Digital Solutions (CPD)
 
 ### Development
 
-- Python
-- HTML
-- CSS
-- JavaScript *(developing)*
-- SQL *(developing)*
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-### Artificial Intelligence
+### AI and Automation
 
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+
+With:
 - Prompt Engineering
-- OpenAI APIs
 - AI-assisted Development
 - Workflow Automation
+- Generative AI
 
 ### Platforms & Tools
 
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+
+Including:
 - Git
-- GitHub
-- Visual Studio Code
-- Docker
-- Supabase
-- n8n
 - Lovable
 
 ---
@@ -106,29 +112,7 @@ AI-Powered Digital Solutions (CPD)
 ### 🤖 Artificial Intelligence
 
 - OpenAI
-- Prompt Engineering
-- Generative AI
-
-### ⚙️ Automation
-
-- n8n
-- API Integrations
-- Workflow Design
-
-### 💻 Development
-
-- Python
-- JavaScript
-- HTML
-- CSS
-- SQL
-
-### ☁️ Platforms
-
-- GitHub
-- Docker
-- Supabase
-- VS Code
+- Claude AI
 
 ---
 
