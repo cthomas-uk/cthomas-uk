@@ -142,12 +142,10 @@ Continuous learning is an important part of my professional development. Alongsi
 ### Google Career Certificates
 
 - 🎓 **Google AI Professional**  
-  🔗 [View Certificate](https://coursera.org/verify/profession
-al-cert/O9EXYHHIYTL9)
+  🔗 [View Certificate](https://coursera.org/verify/professional-cert/O9EXYHHIYTL9)
 
 - 🎓 **Google Data Analytics**  
-  🔗 [View Certificate](https://coursera.org/verify/profession
-al-cert/SK9EIP7KYTEW)
+  🔗 [View Certificate](https://coursera.org/verify/professional-cert/SK9EIP7KYTEW)
 
 ---
 
