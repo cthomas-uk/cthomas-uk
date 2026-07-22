@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="./images/banner.png" alt="Chris Thomas Banner" width="100%">
+  <img
+    src="https://raw.githubusercontent.com/cthomas-uk/cthomas-uk/main/images/banner.png"
+    alt="Chris Thomas Banner"
+    width="100%"
+  >
 </p>
 
 ---
